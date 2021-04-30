@@ -1,0 +1,13 @@
+{
+  "name": "firestore",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "firebase-admin": "^9.7.0",
+    "nodemon": "^2.0.7"
+  }
+}
