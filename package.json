@@ -5,6 +5,10 @@
   "repository": "https://github.com/rochafialvin/firestore-moment.git",
   "author": "rochafialvin <rochafi.dev@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "start": "nodemon index.js",
+    "moment": "nodemon moment.js"
+  },
   "dependencies": {
     "firebase-admin": "^9.7.0",
     "moment": "^2.29.1",
