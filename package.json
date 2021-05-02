@@ -1,13 +1,13 @@
 {
   "name": "firestore",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "main": "index.js",
+  "repository": "https://github.com/rochafialvin/firestore-moment.git",
+  "author": "rochafialvin <rochafi.dev@gmail.com>",
   "license": "MIT",
-  "scripts": {
-    "start": "nodemon index.js"
-  },
   "dependencies": {
     "firebase-admin": "^9.7.0",
+    "moment": "^2.29.1",
     "nodemon": "^2.0.7"
   }
 }
